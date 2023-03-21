@@ -1,0 +1,13 @@
+/* HTML */
+html{
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+/* BODY */
+body{
+    width: 600px;
+    background-color: rgb(255, 145, 0);
+    padding: 0px 20px 20px 20px;
+    margin: 0 auto;
+    border: 5px solid white;
+}
